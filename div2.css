@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(107, 177, 196);
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    color: rgb(70, 20, 40);
+    background-color: rgb(223, 196, 165);
+    border-style: solid;
+    border-color: brown;
+    border-radius: 90px;
+    border: 2px solid brown;
+    height: 50px;
+    width: 650px;
+    /* padding-left: 40px;
+   padding-bottom: 10px;
+*/
+    padding: 2px 3px 4px 5px;
+    /* top-right-bottom-left--->>clockwise */
+    margin: 10px;
+}
+
+div {
+    height: 80px;
+    width: 80px;
+    background-color: aqua;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: black;
+    padding: 6px 6px 6px 6px;
+    margin: 30px;
+
+}
+
+button {
+    background-color: rgb(236, 235, 228);
+    color: rgb(174, 174, 120);
+    margin: 20px;
+
+}

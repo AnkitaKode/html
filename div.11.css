@@ -1,0 +1,34 @@
+div {
+    color: white;
+    height: 100px;
+    width: 100px;
+    border-color: rgb(48, 48, 48);
+    border-radius: 50%;
+    background-color: rgb(230, 240, 237);
+    border-right: 20px solid rgb(40, 246, 250);
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    /* animation: shorthand orderwise below; */
+    animation-name: colorAnimate;
+    animation-duration: 1s;
+    animation-timing-function: ease-in;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+
+}
+
+@keyframes colorAnimate {
+    0% {
+        left: 0px;
+        background-color: rgb(197, 244, 227);
+    }
+
+    100% {
+        left: 200px;
+        background-color: rgb(235, 220, 220);
+    }
+}
+
+div:hover {}

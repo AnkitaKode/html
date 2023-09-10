@@ -1,0 +1,56 @@
+* {
+    color: rgb(210, 132, 210);
+}
+
+#fort {
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 82px;
+    line-height: 40px;
+    text-transform: lowercase;
+}
+
+h2 {
+    color: rgb(195, 181, 30);
+}
+
+h3 {
+    text-align: center;
+    color: rgb(92, 166, 223);
+    text-decoration: blue dotted underline;
+}
+
+p {
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+
+button {
+    background-color: rgb(185, 209, 185);
+    color: blueviolet;
+}
+
+body {
+    background-color: #042504;
+}
+
+.myclass {
+    color: navy;
+}
+
+#headingone {
+    color: tomato;
+}
+
+a {
+    text-decoration: none;
+}
+
+#outer { 
+    font-size: 25px;
+}
+
+#inner {
+    font-size: 10px;
+}

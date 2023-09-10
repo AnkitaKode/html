@@ -1,0 +1,17 @@
+#box1 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px;
+}
+
+#box2 {
+    width: 50%;
+    background-color: rgb(228, 179, 115);
+    margin-left: 20%;
+    font-size: 0.7em;
+    width: 8em;
+    width: 4rem;
+    height: 10vh;
+    /*100vh means full screen viewport height vw means width */
+}

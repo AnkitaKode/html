@@ -1,0 +1,33 @@
+.bar {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(101, 44, 44);
+
+}
+
+li {
+    list-style-type: none;
+    background-color: pink;
+
+}
+
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(4, 54, 37);
+
+}
