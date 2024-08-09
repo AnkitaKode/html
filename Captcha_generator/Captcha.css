@@ -36,7 +36,7 @@ input {
 
 #btn {
     box-shadow: 5px 5px 5px grey;
-    color: aqua;
+    color: rgb(237, 246, 246);
     margin: 10px;
     background-color: brown;
 }
